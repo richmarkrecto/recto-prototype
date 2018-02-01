@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<a href="index.php">previous</a>
+	<a href="seven.php">previous</a>
 	<a href="eight.php">next</a>
 	  <img src="7.png">
 	

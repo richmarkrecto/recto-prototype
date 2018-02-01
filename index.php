@@ -6,6 +6,6 @@
 <body>
 		
 	<a href="two.php">next</a>
-		<img src="1.png">
+		<img src="1.jpg">
 </body>
 </html>

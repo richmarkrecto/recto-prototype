@@ -4,8 +4,11 @@
 	<title></title>
 </head>
 <body>
-		
-	<a href="two.php">next</a>
-		<img src="1.jpg">
+
+	<a href="eight.php">previous</a>
+	<a href="nine.php">next</a>
+	  <img src="8.png">
+	
+
 </body>
 </html>
